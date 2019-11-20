@@ -12,7 +12,7 @@ public class LimitConfigurationController {
     Configuration configuration1;
 	 @Autowired
     Configuration configuration2;
-   
+	   
 //    public LimitConfigurationController(Configuration configuration) {
 //    	this.configuration1 = configuration;
 //    }

@@ -1,5 +1,7 @@
 package com.matchscore.microservices.limitservice.beans;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 public class LimitConfiguration {
 	private int minimum;
 	private int maximum;
